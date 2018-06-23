@@ -1,0 +1,19 @@
+{
+  "name": "next-babel-minify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sergiodxa/next-babel-minify.git",
+  "author": "Sergio Xalambrí <sergiodxa@gmail.com> (https://sergiodxa.com)",
+  "license": "MIT",
+  "keywords": [
+    "nextjs",
+    "react",
+    "uglifyjs",
+    "babel",
+    "minify",
+    "babel-minify"
+  ],
+  "dependencies": {
+    "babel-minify-webpack-plugin": "0.3.1"
+  }
+}
